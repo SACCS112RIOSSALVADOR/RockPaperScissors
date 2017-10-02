@@ -73,3 +73,5 @@ public class ROSHAMBO {
 		scanner.close();
 	}
 }
+
+// Good job		
